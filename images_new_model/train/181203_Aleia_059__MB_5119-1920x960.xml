@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>181203_Aleia_059__MB_5119-1920x960.jpg</filename>
+	<path>C:\Users\PK\Desktop\images\images\181203_Aleia_059__MB_5119-1920x960.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>4</ymin>
+			<xmax>1318</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+</annotation>

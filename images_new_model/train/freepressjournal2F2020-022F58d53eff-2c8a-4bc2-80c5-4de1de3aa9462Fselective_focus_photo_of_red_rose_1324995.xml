@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>freepressjournal2F2020-022F58d53eff-2c8a-4bc2-80c5-4de1de3aa9462Fselective_focus_photo_of_red_rose_1324995.jpg</filename>
+	<path>C:\Users\PK\Desktop\images\images\freepressjournal2F2020-022F58d53eff-2c8a-4bc2-80c5-4de1de3aa9462Fselective_focus_photo_of_red_rose_1324995.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>77</ymin>
+			<xmax>532</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

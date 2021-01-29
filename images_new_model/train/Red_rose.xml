@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Red_rose.jpg</filename>
+	<path>C:\Users\PK\Desktop\images\images\Red_rose.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>604</width>
+		<height>868</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>71</ymin>
+			<xmax>503</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,103 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>radish_weed_00003.png</filename>
+    <path>weed-PascalVOC-export/Annotations/radish_weed_00003.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>59.787352472288994</xmin>
+        <ymin>161.4445091312767</ymin>
+        <xmax>284.9020411825587</xmax>
+        <ymax>421.47743681557154</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>604.9988836304753</xmin>
+        <ymin>164.45826342982105</ymin>
+        <xmax>782.5930864383012</xmax>
+        <ymax>288.09339735243054</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>456.0261000934829</xmin>
+        <ymin>310.85682404346954</ymin>
+        <xmax>596.2944878472222</xmax>
+        <ymax>486.0224275507478</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>340.79029056699534</xmin>
+        <ymin>1.489352148135626</ymin>
+        <xmax>589.7814969728828</xmax>
+        <ymax>106.86386084814528</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>329.51915059454757</xmin>
+        <ymin>71.77309864639683</ymin>
+        <xmax>447.5365021389211</xmax>
+        <ymax>527.4167091805931</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>30.973231764791176</xmin>
+        <ymin>1.4335290357539605</ymin>
+        <xmax>134.94150821128187</xmax>
+        <ymax>152.98229848398861</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>51.102286425101504</xmin>
+        <ymin>433.8472675871812</ymin>
+        <xmax>146.08952993583236</xmax>
+        <ymax>595.431702509177</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>183.4946776210847</xmin>
+        <ymin>0</ymin>
+        <xmax>402.86210982816124</xmax>
+        <ymax>94.82640261996474</ymax>
+    </bndbox>
+</object>
+</annotation>

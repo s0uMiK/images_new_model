@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>rose-color-meanings-1578080496.png</filename>
+	<path>C:\Users\PK\Desktop\images\images\rose-color-meanings-1578080496.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>318</ymin>
+			<xmax>1785</xmax>
+			<ymax>1319</ymax>
+		</bndbox>
+	</object>
+</annotation>

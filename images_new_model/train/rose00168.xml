@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>rose_train</folder>
+	<filename>rose00168.jpg</filename>
+	<path>C:\Users\Vijay\Downloads\renamed_flower images\rose_train\rose00168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>30</ymin>
+			<xmax>465</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

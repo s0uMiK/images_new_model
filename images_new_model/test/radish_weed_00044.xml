@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>radish_weed_00044.png</filename>
+    <path>weed-PascalVOC-export/Annotations/radish_weed_00044.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>112.34949448529412</xmin>
+        <ymin>136.72741333530226</ymin>
+        <xmax>288.08123746657753</xmax>
+        <ymax>402.8032463389354</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>263.3758773395722</xmin>
+        <ymin>141.22681883024248</ymin>
+        <xmax>630.538101604278</xmax>
+        <ymax>213.98002853067047</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>366.8024105949197</xmin>
+        <ymin>210.5563480741797</ymin>
+        <xmax>660.1682611965241</xmax>
+        <ymax>377.46077032810274</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>516.9532294451872</xmin>
+        <ymin>254.15752155124375</ymin>
+        <xmax>644.6041005180481</xmax>
+        <ymax>476.1276615159147</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>593.1356534090909</xmin>
+        <ymin>23.07165475102532</ymin>
+        <xmax>700.8648061497325</xmax>
+        <ymax>149.85424700205064</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>657.0918804311497</xmin>
+        <ymin>417.85446362896755</ymin>
+        <xmax>796.3373161764705</xmax>
+        <ymax>568.4550809111983</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>weed_train</folder>
+	<filename>lettuce_weed_00198.png</filename>
+	<path>C:\Users\PK\Desktop\weed_train\lettuce_weed_00198.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1296</width>
+		<height>966</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>142</ymin>
+			<xmax>1081</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

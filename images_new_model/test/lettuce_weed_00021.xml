@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>lettuce_weed_00021.png</filename>
+    <path>weed-PascalVOC-export/Annotations/lettuce_weed_00021.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1296</width>
+        <height>966</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>862.2584220740446</xmin>
+        <ymin>27.753679846087074</ymin>
+        <xmax>1135.5385337878183</xmax>
+        <ymax>194.5893301678519</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>949.2892024532244</xmin>
+        <ymin>154.2662811279297</ymin>
+        <xmax>1130.2563632066083</xmax>
+        <ymax>377.68738914554956</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>907.7094913166799</xmin>
+        <ymin>486.2471652560764</ymin>
+        <xmax>1013.2832062350716</xmax>
+        <ymax>531.6746393187434</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>611.5351033787819</xmin>
+        <ymin>469.0680635892428</ymin>
+        <xmax>712.5835707354697</xmax>
+        <ymax>510.5220394297543</ymax>
+    </bndbox>
+</object><object>
+    <name>weed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>720.7317034484474</xmin>
+        <ymin>619.0392753405449</ymin>
+        <xmax>745.0262116839172</xmax>
+        <ymax>692.29442316039</ymax>
+    </bndbox>
+</object>
+</annotation>

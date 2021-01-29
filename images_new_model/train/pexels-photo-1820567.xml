@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pexels-photo-1820567.jpeg</filename>
+	<path>C:\Users\PK\Desktop\images\images\pexels-photo-1820567.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2124</width>
+		<height>3186</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>851</ymin>
+			<xmax>1132</xmax>
+			<ymax>1503</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WhatsAppImage2020-09-08at5.27.25PM_afa8515d-dc3e-4920-a4e1-abac1cbf37e8_1200x1200.jpg</filename>
+	<path>C:\Users\PK\Desktop\images\images\WhatsAppImage2020-09-08at5.27.25PM_afa8515d-dc3e-4920-a4e1-abac1cbf37e8_1200x1200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>102</ymin>
+			<xmax>526</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

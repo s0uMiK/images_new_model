@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images87.jpg</filename>
+	<path>C:\Users\PK\Desktop\images\images\images87.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>70</ymin>
+			<xmax>146</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

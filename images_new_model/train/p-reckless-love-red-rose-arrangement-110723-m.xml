@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>p-reckless-love-red-rose-arrangement-110723-m.jpg</filename>
+	<path>C:\Users\PK\Desktop\images\images\p-reckless-love-red-rose-arrangement-110723-m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>147</ymin>
+			<xmax>474</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

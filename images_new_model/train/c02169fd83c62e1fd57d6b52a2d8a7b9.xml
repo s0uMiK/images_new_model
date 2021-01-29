@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>c02169fd83c62e1fd57d6b52a2d8a7b9.jpg</filename>
+	<path>C:\Users\PK\Desktop\images\images\c02169fd83c62e1fd57d6b52a2d8a7b9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>18</ymin>
+			<xmax>657</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>
